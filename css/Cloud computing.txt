@@ -1,0 +1,6 @@
+1 - What is Cloud Computing 
+Ans - Cloud computing is the on-demand availability of computer system resources, especially data storage and computing power, without direct active management by the user. The term is generally used to describe data centers available to many users over the Internet
+
+2 - Who uses cloud computing 
+
+Ans - One of the other most obvious uses of cloud computing is the mobility that it brings, both to the recreational user, as well as to the corporate and business user. Many of us are already familiar with some cloud computing services, like Google Docs, or even email services.
